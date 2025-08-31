@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jbS1NV9aZ9Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bob Pang\\source\\repos\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bob Pang\\.nuget\\packages\\microsoft.web.webview2\\1.0.3405.78\\microsoft.web.webview2.1.0.3405.78.nupkg.sha512"
+  ],
+  "logs": []
+}
